@@ -1,2 +1,2 @@
 # ecshop
-我的商城。
+# is my shop
